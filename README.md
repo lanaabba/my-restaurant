@@ -9,7 +9,7 @@
  Beef Patty, Onions, Tomatoes, Pickles, Lettuce, ketchup, Mayo, Mustard
 
 
-![](./%D8%AA%D9%86%D8%B2%D9%8A%D9%84%201.jpg)
+![](./y1.jpg)
 
  
  2. *Cheese Burger*
@@ -18,14 +18,14 @@
 
 
  
- ![](./%D8%AA%D9%86%D8%B2%D9%8A%D9%84%202.jpg)
+ ![](./y2.jpg)
 
  3. *Beef Bacon*
 
  Beef Patty, Chedder Cheese.
 
 
- ![](./%D8%AA%D9%86%D8%B2%D9%8A%D9%843.jpg)
+ ![](./y3'.jpg)
 
 
 
