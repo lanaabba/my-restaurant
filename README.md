@@ -28,10 +28,8 @@
  ![](./y3'.jpg)
 
 ## Wireframe
-![Wireframe](./Untitled%20(3).jpg)
+![Wireframe](./Screenshot%202023-05-10%20122403.png)
 
 
-
-[facebook link](https://ar-ar.facebook.com/).
 
 
