@@ -71,6 +71,29 @@
     cursor: pointer;
     gap: 5px;
 }
+.main-about{
+    min-width: calc(100vh-50px);
+    padding: 20px;
+}
+.main-about {
+    background-color:#E5F9DB;
+    margin: 0 auto;
+    padding: 100px;
+    
+}
+
+.main-about img {
+    min-width: calc(200vh-50px);
+    width: 300px;
+    padding: 20px;
+    height: 300px;
+    display: flex;
+}
+.main-about .text {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+}
+
 .footer{
     height: 20px;
 }
